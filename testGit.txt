@@ -3,3 +3,4 @@ Git is free softwarm distributed under the GPL.
 Hello Git.
 Hello ShangHai
 Hello Python
+Creating a new branch is qucik AND simple
