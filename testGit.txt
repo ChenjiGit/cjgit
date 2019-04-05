@@ -3,6 +3,7 @@ Git is free softwarm distributed under the GPL.
 Hello Git.
 Hello ShangHai
 Hello Python
+debug
 <<<<<<< HEAD
 Creating new branch is quick&simple
 =======
